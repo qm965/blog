@@ -1,2 +1,5 @@
-node_modules/
-.serverless/
+node_modules
+.serverless
+.faas_debug_tmp
+public
+db.json
