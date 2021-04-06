@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hello Midway Serverless
-subtitle: 'Run hexo on serverless by midway'
-description: ''
+title: 秦明的博客
+subtitle: '记录编程和生活随想'
+description: '你觉得呢'
 keywords:
-author: midwayjs
+author: 秦明
 language: cn
 timezone: ''
 
